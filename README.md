@@ -158,8 +158,6 @@ Nano GND -> black    -> MPU6050 GND
 LED on MPU6050 glows.
 Example sketch doesn't find the chip while initialization.
 
-![MPU6050_Fail_Arduino_IDE](img/MPU6050_Fail_Arduino_IDE.jpg)
-
 
 **Problem solving attempts, without success:**
 - change cables to new ones
